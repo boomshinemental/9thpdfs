@@ -1,0 +1,179 @@
+* {
+  text-decoration: none;
+  margin: 0px;
+
+}
+
+body {
+  width: 90%;
+
+}
+
+h2 {
+  color: antiquewhite;
+  font-family: arial;
+  font-weight: bold;
+  font-size: 25px;
+  text-align: Center;
+  margin-top: 80px;
+  position: absolute;
+  left: 50px;
+  right: 50px;
+  bottom: 400px;
+
+
+
+
+}
+
+
+
+nav {
+  width: 100%;
+  display: flex;
+  background-color: gray;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  margin: 0px;
+  position:rela
+}
+
+nav ul {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+
+
+}
+
+
+
+h1{
+  font-size: 26px;
+  text-align:center;
+  margin:10px;
+}
+
+.container{
+  float:right;
+  background-color: dimgray;
+  width:100px;
+  height:100px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+
+  
+}
+
+.Science{
+  color:black;
+  font-weight:bold;
+  font-size: 20px;
+  
+}
+
+.cont2{
+  background-color:dimgray;
+  margin-left:10px;
+  width: 100px;
+  height: 100px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+
+.Maths{
+  color:black;
+  font-weight:bold;
+  font-size: 20px;
+  
+}
+
+.cont3{
+  background-color:dimgray;
+  margin-left: 10px;
+  width:100px;
+  height:100px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  
+  
+}
+
+.English{
+  color:black;
+  font-weight:bold;
+  font-size: 20px;
+}
+
+.cont4{
+  background-color:dimgray;
+  width:100px;
+  height:100px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  float:right;
+  position:absolute;
+  right:36.2px;
+  top:270px;
+}
+
+.Hindi{
+  color:black;
+  font-weight:bold;
+  font-size: 20px;
+}
+
+.cont6{
+  background-color:dimgray;
+  margin-left: 10px;
+  width:100px;
+  height:100px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  position: absolute;
+  right:36.2px;
+  top: 390px;
+  
+}
+
+.IT{
+  color:black;
+  font-weight:bold;
+  font-size: 20px;
+  
+}
+
+.cont5{
+  
+  background-color:dimgray;
+  margin-left: 10px;
+  width:100px;
+  height:100px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  position:absolute;
+  top:390px;
+  
+}
+
+.SST{
+    color:black;
+    font-weight:bold;
+    font-size: 20px;
+}
